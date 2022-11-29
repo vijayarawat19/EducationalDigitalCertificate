@@ -1,0 +1,693 @@
+TASK 1
+Enter the number ofhidden layers 
+10
+Enter the learning rate 
+0.01
+Enter the epochs 
+20
+iteration 1
+[1 2 6 9]
+Accuracy calculation in % = 6.067796610169491
+Loss value calculated is = 2.492414642997422
+iteration 2
+[1 2 6 9]
+Accuracy calculation in % = 6.169491525423728
+Loss value calculated is = 2.4884262478974515
+iteration 3
+[1 2 6 9]
+Accuracy calculation in % = 6.271186440677965
+Loss value calculated is = 2.484519501596181
+iteration 4
+[1 2 6 9]
+Accuracy calculation in % = 6.393220338983051
+Loss value calculated is = 2.4806938589950867
+iteration 5
+[1 2 6 9]
+Accuracy calculation in % = 6.496610169491525
+Loss value calculated is = 2.4769491967636075
+iteration 6
+[1 2 6 9]
+Accuracy calculation in % = 6.623728813559322
+Loss value calculated is = 2.473285812056091
+iteration 7
+[1 2 6 9]
+Accuracy calculation in % = 6.749152542372881
+Loss value calculated is = 2.4697044131804273
+iteration 8
+[1 2 6 9]
+Accuracy calculation in % = 6.832203389830509
+Loss value calculated is = 2.466206101632059
+iteration 9
+[1 2 6 9]
+Accuracy calculation in % = 6.9627118644067805
+Loss value calculated is = 2.4627923450582156
+iteration 10
+[1 2 6 9]
+Accuracy calculation in % = 7.1
+Loss value calculated is = 2.4594649410009937
+iteration 11
+[1 2 6 9]
+Accuracy calculation in % = 7.227118644067796
+Loss value calculated is = 2.4562259716597725
+iteration 12
+[1 2 6 9]
+Accuracy calculation in % = 7.328813559322034
+Loss value calculated is = 2.453077750359149
+iteration 13
+[0 1 2 6 9]
+Accuracy calculation in % = 7.423728813559322
+Loss value calculated is = 2.450022760847172
+iteration 14
+[0 1 2 6 9]
+Accuracy calculation in % = 7.532203389830508
+Loss value calculated is = 2.4470635909302314
+iteration 15
+[0 1 2 6 9]
+Accuracy calculation in % = 7.633898305084746
+Loss value calculated is = 2.444202862240014
+iteration 16
+[0 1 2 6 9]
+Accuracy calculation in % = 7.723728813559322
+Loss value calculated is = 2.44144315810283
+iteration 17
+[0 1 2 6 9]
+Accuracy calculation in % = 7.823728813559322
+Loss value calculated is = 2.4387869515327347
+iteration 18
+[0 1 2 6 9]
+Accuracy calculation in % = 7.933898305084745
+Loss value calculated is = 2.436236535293724
+iteration 19
+[0 1 2 6 9]
+Accuracy calculation in % = 8.016949152542372
+Loss value calculated is = 2.4337939557670163
+iteration 20
+[0 1 2 6 9]
+Accuracy calculation in % = 8.094915254237288
+Loss value calculated is = 2.4314609520058044
+---------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+TASK 2
+
+H = 10; η= 0.1; E = 50
+OUTPUT-
+Enter the number ofhidden layers 
+10
+Enter the learning rate 
+0.1
+Enter the epochs 
+50
+Iteration  = 1
+[0 1 3 5 9]
+Accuracy calculation in % = 8.488135593220338
+Loss value calculated is = 2.5616354679308784
+Iteration  = 2
+[0 1 3 5 9]
+Accuracy calculation in % = 7.920338983050848
+Loss value calculated is = 2.5073360590129274
+Iteration  = 3
+[0 1 3 5 9]
+Accuracy calculation in % = 8.201694915254237
+Loss value calculated is = 2.453775457910811
+Iteration  = 4
+[0 1 3 5 7 9]
+Accuracy calculation in % = 8.298305084745762
+Loss value calculated is = 2.406845869228965
+Iteration  = 5
+[0 1 3 5 7 9]
+Accuracy calculation in % = 7.884745762711864
+Loss value calculated is = 2.3723802293043064
+Iteration  = 6
+[0 1 3 5 7 9]
+Accuracy calculation in % = 7.835593220338984
+Loss value calculated is = 2.3518802381699886
+Iteration  = 7
+[0 1 3 5 9]
+Accuracy calculation in % = 8.68813559322034
+Loss value calculated is = 2.3422313676671185
+Iteration  = 8
+[0 1 3 9]
+Accuracy calculation in % = 9.44915254237288
+Loss value calculated is = 2.338902230574556
+Iteration  = 9
+[0 3 9]
+Accuracy calculation in % = 9.901694915254238
+Loss value calculated is = 2.3384041180892283
+Iteration  = 10
+[0 3 9]
+Accuracy calculation in % = 9.983050847457626
+Loss value calculated is = 2.3387802875684978
+Iteration  = 11
+[0 3 9]
+Accuracy calculation in % = 9.989830508474576
+Loss value calculated is = 2.339207914303837
+Iteration  = 12
+[0 3 9]
+Accuracy calculation in % = 9.944067796610168
+Loss value calculated is = 2.339483188517002
+Iteration  = 13
+[0 3 9]
+Accuracy calculation in % = 9.928813559322034
+Loss value calculated is = 2.3396265166045347
+Iteration  = 14
+[0 9]
+Accuracy calculation in % = 9.91864406779661
+Loss value calculated is = 2.3396935469974065
+Iteration  = 15
+[0 9]
+Accuracy calculation in % = 9.915254237288137
+Loss value calculated is = 2.33972318746687
+Iteration  = 16
+[0 9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339735934486698
+Iteration  = 17
+[0 9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397413429325056
+Iteration  = 18
+[0 9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397436189644085
+Iteration  = 19
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339744568239714
+Iteration  = 20
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339744958412539
+Iteration  = 21
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745114648647
+Iteration  = 22
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745174276103
+Iteration  = 23
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451949583696
+Iteration  = 24
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745200622603
+Iteration  = 25
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745200977662
+Iteration  = 26
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745199804506
+Iteration  = 27
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745198463481
+Iteration  = 28
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745197363377
+Iteration  = 29
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745196565029
+Iteration  = 30
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745196020697
+Iteration  = 31
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451956629345
+Iteration  = 32
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745195433246
+Iteration  = 33
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451952880957
+Iteration  = 34
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745195197375
+Iteration  = 35
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451951411194
+Iteration  = 36
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451951064308
+Iteration  = 37
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745195085133
+Iteration  = 38
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745195072095
+Iteration  = 39
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950641313
+Iteration  = 40
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950592743
+Iteration  = 41
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950563157
+Iteration  = 42
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950545167
+Iteration  = 43
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950534207
+Iteration  = 44
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950527546
+Iteration  = 45
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.33974519505235
+Iteration  = 46
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950521035
+Iteration  = 47
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745195051954
+Iteration  = 48
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950518624
+Iteration  = 49
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.339745195051808
+Iteration  = 50
+[9]
+Accuracy calculation in % = 9.913559322033898
+Loss value calculated is = 2.3397451950517736
+
+ 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Task 3
+
+H = 20; η = 0.02; E = 50
+Output-
+Enter the number ofhidden layers 
+20
+Enter the learning rate 
+0.02
+Enter the epochs 
+50
+Iteration  = 1
+[0 1 3 4 5 6 8 9]
+Accuracy calculation in % = 5.883050847457627
+Loss value calculated is = 2.521156477902071
+Iteration  = 2
+[0 1 3 4 5 6 8 9]
+Accuracy calculation in % = 6.203389830508475
+Loss value calculated is = 2.5046352881252694
+Iteration  = 3
+[0 1 3 4 5 6 7 8 9]
+Accuracy calculation in % = 6.432203389830509
+Loss value calculated is = 2.4883422756701488
+Iteration  = 4
+[0 1 3 4 5 6 7 8 9]
+Accuracy calculation in % = 6.637288135593221
+Loss value calculated is = 2.472322336187466
+Iteration  = 5
+[0 1 3 4 5 6 7 8 9]
+Accuracy calculation in % = 6.727118644067796
+Loss value calculated is = 2.4566718412480606
+Iteration  = 6
+[0 1 3 4 5 6 7 8 9]
+Accuracy calculation in % = 6.749152542372881
+Loss value calculated is = 2.4415235117620946
+Iteration  = 7
+[0 1 3 4 5 6 7 8 9]
+Accuracy calculation in % = 6.910169491525424
+Loss value calculated is = 2.427029215392975
+Iteration  = 8
+[0 1 3 4 5 6 7 8 9]
+Accuracy calculation in % = 6.918644067796611
+Loss value calculated is = 2.4133425761364626
+Iteration  = 9
+[0 1 2 3 4 5 6 7 8 9]
+Accuracy calculation in % = 6.972881355932204
+Loss value calculated is = 2.400603218354064
+Iteration  = 10
+[0 1 2 3 4 5 6 7 8 9]
+Accuracy calculation in % = 7.127118644067797
+Loss value calculated is = 2.388924123270391
+Iteration  = 11
+[0 1 2 3 4 5 6 7 8 9]
+Accuracy calculation in % = 7.332203389830508
+Loss value calculated is = 2.3783831372207715
+Iteration  = 12
+[0 1 2 3 4 5 6 7 8 9]
+Accuracy calculation in % = 7.567796610169491
+Loss value calculated is = 2.369019104941319
+Iteration  = 13
+[0 1 3 4 5 6 7 8 9]
+Accuracy calculation in % = 7.857627118644067
+Loss value calculated is = 2.360832401051002
+Iteration  = 14
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.113559322033899
+Loss value calculated is = 2.353788990924229
+Iteration  = 15
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.259322033898304
+Loss value calculated is = 2.3478267803402235
+Iteration  = 16
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.372881355932202
+Loss value calculated is = 2.342862958559815
+Iteration  = 17
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.39322033898305
+Loss value calculated is = 2.3388012398962363
+Iteration  = 18
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.41186440677966
+Loss value calculated is = 2.335538290315978
+Iteration  = 19
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.366101694915255
+Loss value calculated is = 2.332969050368929
+Iteration  = 20
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.337288135593221
+Loss value calculated is = 2.330990935704352
+Iteration  = 21
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.259322033898304
+Loss value calculated is = 2.329506980933029
+Iteration  = 22
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 8.115254237288136
+Loss value calculated is = 2.3284280324791906
+Iteration  = 23
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 7.971186440677966
+Loss value calculated is = 2.327674131404407
+Iteration  = 24
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 7.8745762711864415
+Loss value calculated is = 2.3271752196837605
+Iteration  = 25
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 7.733898305084745
+Loss value calculated is = 2.326871290853018
+Iteration  = 26
+[0 1 3 5 6 7 8 9]
+Accuracy calculation in % = 7.683050847457627
+Loss value calculated is = 2.3267121061332072
+Iteration  = 27
+[0 1 3 5 6 7 9]
+Accuracy calculation in % = 7.645762711864407
+Loss value calculated is = 2.3266565839353537
+Iteration  = 28
+[0 1 3 5 6 7 9]
+Accuracy calculation in % = 7.606779661016949
+Loss value calculated is = 2.32667195146512
+Iteration  = 29
+[0 1 3 6 7]
+Accuracy calculation in % = 7.715254237288136
+Loss value calculated is = 2.3267327400935947
+Iteration  = 30
+[0 1 3 6 7]
+Accuracy calculation in % = 7.928813559322034
+Loss value calculated is = 2.3268197085682325
+Iteration  = 31
+[0 1 3 6 7]
+Accuracy calculation in % = 8.125423728813558
+Loss value calculated is = 2.326918777044565
+Iteration  = 32
+[0 1 3 6 7]
+Accuracy calculation in % = 8.447457627118645
+Loss value calculated is = 2.327020039068996
+Iteration  = 33
+[0 1 3 6 7]
+Accuracy calculation in % = 8.806779661016948
+Loss value calculated is = 2.3271168888456377
+Iteration  = 34
+[0 1 3 6 7]
+Accuracy calculation in % = 9.161016949152541
+Loss value calculated is = 2.327205271649792
+Iteration  = 35
+[0 1 3 6 7]
+Accuracy calculation in % = 9.479661016949152
+Loss value calculated is = 2.327283049118474
+Iteration  = 36
+[0 1 3 6 7]
+Accuracy calculation in % = 9.76271186440678
+Loss value calculated is = 2.3273494684886527
+Iteration  = 37
+[1 3 6 7]
+Accuracy calculation in % = 9.940677966101696
+Loss value calculated is = 2.327404727465899
+Iteration  = 38
+[1 3 6 7]
+Accuracy calculation in % = 10.157627118644069
+Loss value calculated is = 2.327449627800308
+Iteration  = 39
+[1 3 6]
+Accuracy calculation in % = 10.320338983050847
+Loss value calculated is = 2.3274853095888757
+Iteration  = 40
+[1 3 6]
+Accuracy calculation in % = 10.494915254237288
+Loss value calculated is = 2.327513056447019
+Iteration  = 41
+[1 3 6]
+Accuracy calculation in % = 10.60677966101695
+Loss value calculated is = 2.3275341604703987
+Iteration  = 42
+[1 3 6]
+Accuracy calculation in % = 10.759322033898306
+Loss value calculated is = 2.3275498356446382
+Iteration  = 43
+[1 3 6]
+Accuracy calculation in % = 10.889830508474576
+Loss value calculated is = 2.327561168774777
+Iteration  = 44
+[1 3 6]
+Accuracy calculation in % = 10.971186440677966
+Loss value calculated is = 2.327569097900056
+Iteration  = 45
+[1 3 6]
+Accuracy calculation in % = 11.038983050847458
+Loss value calculated is = 2.3275744094753765
+Iteration  = 46
+[1 3]
+Accuracy calculation in % = 11.118644067796609
+Loss value calculated is = 2.3275777472299994
+Iteration  = 47
+[1 3]
+Accuracy calculation in % = 11.171186440677966
+Loss value calculated is = 2.327579627347287
+Iteration  = 48
+[1 3]
+Accuracy calculation in % = 11.193220338983052
+Loss value calculated is = 2.3275804562235898
+Iteration  = 49
+[1 3]
+Accuracy calculation in % = 11.215254237288136
+Loss value calculated is = 2.32758054840716
+Iteration  = 50
+[1 3]
+Accuracy calculation in % = 11.223728813559323
+Loss value calculated is = 2.327580143330523
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 4
+H = 2; η = 0.01; E = 10
+Output-
+Enter the number ofhidden layers 
+2
+Enter the learning rate 
+0.01
+Enter the epochs 
+10
+Iteration  = 1
+[3 8 9]
+Accuracy calculation in % = 8.528813559322034
+Loss value calculated is = 2.3412065626020704
+Iteration  = 2
+[3 8 9]
+Accuracy calculation in % = 8.569491525423729
+Loss value calculated is = 2.340950588760233
+Iteration  = 3
+[3 8 9]
+Accuracy calculation in % = 8.605084745762712
+Loss value calculated is = 2.340703681271362
+Iteration  = 4
+[3 8 9]
+Accuracy calculation in % = 8.68135593220339
+Loss value calculated is = 2.340465399280115
+Iteration  = 5
+[3 8 9]
+Accuracy calculation in % = 8.740677966101696
+Loss value calculated is = 2.340235247974569
+Iteration  = 6
+[3 8 9]
+Accuracy calculation in % = 8.766101694915255
+Loss value calculated is = 2.3400126837370787
+Iteration  = 7
+[3 8 9]
+Accuracy calculation in % = 8.801694915254238
+Loss value calculated is = 2.339797120303609
+Iteration  = 8
+[3 8 9]
+Accuracy calculation in % = 8.850847457627118
+Loss value calculated is = 2.3395879358464473
+Iteration  = 9
+[3 8 9]
+Accuracy calculation in % = 8.894915254237288
+Loss value calculated is = 2.3393844808763404
+Iteration  = 10
+[3 8 9]
+Accuracy calculation in % = 8.933898305084746
+Loss value calculated is = 2.3391860868377874
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+Task 5
+H = 4; η= 0.5; E = 25
+Output-
+Enter the number ofhidden layers 
+4
+Enter the learning rate 
+0.5
+Enter the epochs 
+25
+Iteration  = 1
+[0 1 2 4]
+Accuracy calculation in % = 6.7101694915254235
+Loss value calculated is = 2.354533125098076
+Iteration  = 2
+[0 1 2 4]
+Accuracy calculation in % = 5.271186440677966
+Loss value calculated is = 2.3421224692748366
+Iteration  = 3
+[0 1 2 4]
+Accuracy calculation in % = 9.6
+Loss value calculated is = 2.3321072612839577
+Iteration  = 4
+[1 4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331552590578099
+Iteration  = 5
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331534523339131
+Iteration  = 6
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533825094511
+Iteration  = 7
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533777054365
+Iteration  = 8
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337711936235
+Iteration  = 9
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533770262617
+Iteration  = 10
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337701026873
+Iteration  = 11
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.33153377007461
+Iteration  = 12
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337700696444
+Iteration  = 13
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337700687606
+Iteration  = 14
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337700686043
+Iteration  = 15
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533770068576
+Iteration  = 16
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533770068571
+Iteration  = 17
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337700685697
+Iteration  = 18
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337700685697
+Iteration  = 19
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533770068569
+Iteration  = 20
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337700685697
+Iteration  = 21
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.3315337700685697
+Iteration  = 22
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533770068569
+Iteration  = 23
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533770068569
+Iteration  = 24
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533770068569
+Iteration  = 25
+[4]
+Accuracy calculation in % = 9.723728813559323
+Loss value calculated is = 2.331533770068569
+
+ 
+
+
+
+
+
+Accuracy and Loss evaluation on the Testing data set
+
+Output-
+
+
+ OPERATION ON TESTING DATASET
+Accuracy calculated in % =  9.82
+Loss value calculated = 2.329086648329812
